@@ -1,2 +1,2 @@
 # SQL
-Hi my name is Josias Early, this is my portfolio for all of my sql projects feel free to browse!
+Hi my name is Josias Early, welcome to my sql portfolio. Feel free to brwose my projects.
